@@ -1,0 +1,1 @@
+A small client-server chat application based on Java RMI
